@@ -186,9 +186,6 @@ def run_model():
   accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
   tf.summary.scalar('accuracy', accuracy)
 
-  print("Train data amount -> " + str(total_train_data))
-  print("Test data amount -> " + str(total_test_data))
-
   # Initialize and Run
   with tf.Session() as sess:
     merged = tf.summary.merge_all()
