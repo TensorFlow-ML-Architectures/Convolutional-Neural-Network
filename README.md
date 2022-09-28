@@ -20,21 +20,12 @@ CNN Architecture:
 [CNN4]: https://github.com/TensorFlow-ML-Architectures/Convolutional-Neural-Network/raw/master/fully-connected.png "Fully Connected Layer"
 
 ## Added
+* Batch Norm
 * Dropout
 
 Confusion Matrix:
 ![Confusion Matrix1][CM1]
 
-[CM1]: https://github.com/TensorFlow-ML-Architectures/Convolutional-Neural-Network/raw/master/plot.png "Confusion Matrix"
-
-Accuracy Plot (Orange: Training data, Blue: Testing data):
-![Accuracy Plot1][AP1]
-
-[AP1]: https://github.com/TensorFlow-ML-Architectures/Convolutional-Neural-Network/raw/master/acc.png "Accuracy Plot"
-
-Loss Plot (Orange: Training data, Blue: Testing data):
-![Loss Plot1][LP1]
-
-[LP1]: https://github.com/TensorFlow-ML-Architectures/Convolutional-Neural-Network/raw/master/loss.png "Loss Plot"
+[CM1]: https://github.com/TensorFlow-ML-Architectures/Convolutional-Neural-Network/raw/master/confusion_matrix.png "Confusion Matrix"
 
 
