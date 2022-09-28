@@ -1,5 +1,5 @@
 # Convolutional-Neural-Network
-Vanilla CNN example on the MNIST dataset.
+Vanilla CNN example on the cats & dogs dataset.
 
 Convolutional Neural Network:
 ![Convolutional Neural Network1][CNN1]
